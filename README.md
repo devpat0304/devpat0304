@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 👋 Hi my name is Dev Patel<br>- 🎓 I'm a Computer Science and Mathematics student at The University of Texas at Arlington<br>- 💻 My projects and coding assignments are available here, showcasing my work in algorithms, data structures, and software development<br>- 📫 How to reach me - devpat0304@gmail.com<br>
+- 👋 Hi, my name is Dev Patel<br>
+- 🎓 I'm a Computer Science and Mathematics student at The University of Texas at Arlington <br>
+- 💼 Systems Engineer Intern at Fidelity Investments (Summer 2025)<br>
+- 💻 Software Engineer Intern at CVS Health through Break Through Tech (May 2025)<br>
+- 🛠️ My repositories showcase projects in algorithms, data structures, databases, and system-level programming<br>
+- 📫 Reach me at: devpat0304@gmail.com
 
 
 ## 🌐 Socials:
