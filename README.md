@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello!+I'm+Dev+Patel!;Computer+Science+%26+Mathematics+Student+at+The+University+of+Texas+at+Arlington;Systems+Engineer+Intern+@+Fidelity+Investments;Software+Engineer+Intern+at+CVS+Health+(Break+Through+Tech);Code.+Debug.+Repeat." alt="Typing SVG" />
 </p>
 
+<h3 align="left">👋 <span style="animation: wave 2s infinite;">Hi, I'm Dev Patel</span></h3>
+
 👋 Hi, my name is Dev Patel<br>🎓 I'm a Computer Science and Mathematics student at The University of Texas at Arlington<br>💼 Systems Engineer Intern at Fidelity Investments (Summer 2025)<br>💻 Software Engineer Intern at CVS Health through Break Through Tech (May 2025)<br>🛠️ My repositories showcase projects in algorithms, data structures, databases, and system-level programming<br>📫 Reach me at: devpat0304@gmail.com
 
 
