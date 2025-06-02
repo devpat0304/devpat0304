@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello!+I'm+Dev+Patel!;Computer+Science+%26+Mathematics+Student+at+The+University+of+Texas+at+Arlington;Systems+Engineer+Intern+@+Fidelity+Investments;Software+Engineer+Intern+at+CVS+Health+(Break+Through+Tech);Code.+Debug.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello!+I'm+Dev+Patel!;Computer+Science+%26+Mathematics+Student+at+The+University+of+Texas+at+Arlington;Systems+Engineer+Intern+@+Fidelity+Investments;Previous+Software+Engineer+Intern+at+CVS+Health+(Break+Through+Tech);Code.+Debug.+Repeat." alt="Typing SVG" />
 </p>
 
 <h3 align="left">👋 <span style="animation: wave 2s infinite;">Hi, I'm Dev Patel</span></h3>
