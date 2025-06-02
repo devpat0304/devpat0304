@@ -6,7 +6,7 @@
 
 <h3 align="left">👋 <span style="animation: wave 2s infinite;">Hi, I'm Dev Patel</span></h3>
 
-👋 Hi, my name is Dev Patel<br>🎓 I'm a Computer Science and Mathematics student at The University of Texas at Arlington<br>💼 Systems Engineer Intern at Fidelity Investments (Summer 2025)<br>💻 Previous Software Engineer Intern at CVS Health through Break Through Tech (May 2025)<br>🛠️ My repositories showcase projects in algorithms, data structures, databases, and system-level programming<br>📫 Reach me at: devpat0304@gmail.com
+🎓 I'm a Computer Science and Mathematics student at The University of Texas at Arlington<br>💼 Systems Engineer Intern at Fidelity Investments (Summer 2025)<br>💻 Previous Software Engineer Intern at CVS Health through Break Through Tech (May 2025)<br>🛠️ My repositories showcase projects in algorithms, data structures, databases, and system-level programming<br>📫 Reach me at: devpat0304@gmail.com
 
 
 ## 🌐 Socials:
