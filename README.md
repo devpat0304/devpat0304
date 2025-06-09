@@ -71,7 +71,6 @@
 ![Scrum](https://img.shields.io/badge/Scrum-%235C4EE5.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)  
 ![Waterfall](https://img.shields.io/badge/Waterfall-%23A9A9A9.svg?style=for-the-badge&logo=project-management&logoColor=white)  
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake.svg" />
