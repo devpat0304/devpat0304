@@ -1,4 +1,4 @@
-<img width="1172" height="704" alt="image" src="https://github.com/user-attachments/assets/a1346e07-b520-48bf-964c-c4e2c9d6de4b" /># 💫 About Me:
+# 💫 About Me:
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello!+I'm+Dev+Patel!;Computer+Science+%26+Mathematics+Student+at+The+University+of+Texas+at+Arlington;Systems+Engineer+Intern+@+Fidelity+Investments;Previous+Software+Engineer+Intern+at+CVS+Health+(Break+Through+Tech);Code.+Debug.+Repeat." alt="Typing SVG" />
