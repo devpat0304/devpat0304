@@ -11,7 +11,6 @@
 - [About Me](#about-me)
 - [Socials](#-socials)
 - [Tech Stack & Tools](#-tech-stack--tools)
-- [GitHub Snake](#-github-snake)
 - [GitHub Stats](#-github-stats)
 - [GitHub Trophies](#-github-trophies)
 - [Random Dev Quote](#-random-dev-quote)
@@ -155,8 +154,6 @@
 </details>
 
 ---
-
-## 🐍 GitHub Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake-dark.svg" />
