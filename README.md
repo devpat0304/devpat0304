@@ -6,18 +6,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-- [About Me](#about-me)
-- [Socials](#-socials)
-- [Tech Stack & Tools](#-tech-stack--tools)
-- [GitHub Stats](#-github-stats)
-- [GitHub Trophies](#-github-trophies)
-- [Random Dev Quote](#-random-dev-quote)
-- [Visitors](#visitors)
-
----
-
 ## 👋 Hi, I'm Dev Patel
 
 🎓 Computer Science & Mathematics student at The University of Texas at Arlington  
